@@ -1,2 +1,2 @@
-# Customer-Churn-analysis-for-Netflix
+# Netflix-customer-churn-analysis
 Data set is obtained from Kaggle
