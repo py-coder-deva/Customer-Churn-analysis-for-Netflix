@@ -1,2 +1,3 @@
 # Netflix-customer-churn-analysis
-Data set is obtained from Kaggle
+Main targets of this project is to use the netflix dataset and analyse the different parameters that decide the factor that a customere may leave the subscription service or not
+
